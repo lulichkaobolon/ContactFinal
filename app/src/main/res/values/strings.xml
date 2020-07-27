@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ContactFinal</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="field_name">Name:</string>
+    <string name="field_phone">Phone:</string>
+    <string name="title_add">Add new Contact</string>
+    <string name="title_edit">Edit Contact</string>
+    <string name="title_delete">Delete this Contact?</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    <string name="toast_notify">Please select Contact!</string>
+    <string name="email_hint">Enter the email</string>
+    <string name="tv_email">Email: </string>
+    <string name="date_of_birth_hint">Enter the date of birth</string>
+    <string name="tv_date_of_birth">Date of birth: </string>
+    <string name="tv_gender">Gender: </string>
+    <string name="gender_hint">Enter the gender</string>
+    <string name="city_hint">Enter the city</string>
+    <string name="tv_city">City: </string>
+    <string name="choose">Choose one action </string>
+    <string name="btn_show_info">Show info</string>
+    <string name="btn_edit_info">Edit info</string>
+    <string name="btn_back">Back</string>
+</resources>
